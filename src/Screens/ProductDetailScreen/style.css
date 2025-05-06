@@ -1,9 +1,4 @@
-
 .conteiner{
-    position: relative;
-    background-color: var(--color-grey-primary);
-    margin: 1rem;
-    flex: 1 0 25rem;
     display:flex;
     width: 50%; 
     box-sizing: border-box;
@@ -34,4 +29,10 @@ img{
 }
 h3{
     align-items: center;
+}
+.description{
+    border: 1px solid black;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
 }

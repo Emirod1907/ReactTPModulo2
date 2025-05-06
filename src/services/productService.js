@@ -14,3 +14,8 @@ const getProducts = async () =>{
     }
 }
 export default getProducts
+
+export const getProductById = async({product_id})=>{
+    const products =  await getProducts()
+    return products.find(product => product.id == product_id)
+}
