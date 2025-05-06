@@ -6,11 +6,9 @@ const Navbar = () => {
     <header>
         <h2>
             <nav>
-                <Link to={'/'}>Inicio</Link>
+                <Link to={'/'}>Home</Link>
                 <Link to={'/registro'}>Registro</Link>
                 <Link to={'/login'}>Login</Link>
-                <Link to={'/contacto'}>Contactanos</Link>
-                <Link to={'/productos'}>Catalogo</Link>
             </nav>
         </h2>
     </header>

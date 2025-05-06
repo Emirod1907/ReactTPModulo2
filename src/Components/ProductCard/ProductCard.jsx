@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import './style.css'
-import BotonComprar from '../BotonComprar/BotonComprar'
 import { Link } from 'react-router-dom'
 
 const ProductCard = ({img, title, real_price, final_price, discount,id}) => {
@@ -16,7 +15,6 @@ const ProductCard = ({img, title, real_price, final_price, discount,id}) => {
             <span className="discount">%{discount}</span>
         </div>
         <span className='final_price'>${final_price}</span>
-        <BotonComprar title={title}/>
         <Link to={`/producto/${id}`}>Ver detalle</Link>
     </div>
   )
