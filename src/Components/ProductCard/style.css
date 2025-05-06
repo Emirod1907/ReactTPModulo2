@@ -1,0 +1,32 @@
+.conteiner{
+    display:flex;
+    width: 50%; 
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+.discount{
+    background: red;
+}
+.real_price{
+    text-decoration: line-through;
+}
+span{
+    margin: 2px;
+    padding: 5px;
+    border-radius: 3px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: fit-content;
+}
+.price_info{
+    align-items: left;
+    display: flex;
+    justify-content: center;
+}
+img{
+    overflow: hidden;
+    object-fit: cover;
+}
+h3{
+    align-items: center;
+}

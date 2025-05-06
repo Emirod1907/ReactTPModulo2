@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title":"smart TV 32\"",
+        "real_price": 359999,
+        "final_price": 313999,
+        "discount": 10,
+        "img":"https://images.samsung.com/is/image/samsung/ar-hd-j4300-un32j4300agxzb-black-136509795?$624_624_PNG$"
+    },
+    {
+        "id":2,
+        "title":"smart TV 32\"",
+        "real_price": 359999,
+        "final_price": 313999,
+        "discount": 10,
+        "img":"https://images.samsung.com/is/image/samsung/ar-hd-j4300-un32j4300agxzb-black-136509795?$624_624_PNG$"
+    },
+    {
+        "id":3,
+        "title":"smart TV 32\"",
+        "real_price": 359999,
+        "final_price": 313999,
+        "discount": 10,
+        "img":"https://images.samsung.com/is/image/samsung/ar-hd-j4300-un32j4300agxzb-black-136509795?$624_624_PNG$"
+    },
+    {
+        "id":4,
+        "title":"smart TV 32\"",
+        "real_price": 359999,
+        "final_price": 313999,
+        "discount": 10,
+        "img":"https://images.samsung.com/is/image/samsung/ar-hd-j4300-un32j4300agxzb-black-136509795?$624_624_PNG$"
+    },
+    {
+        "id":5,
+        "title":"smart TV 32\"",
+        "real_price": 359999,
+        "final_price": 313999,
+        "discount": 10,
+        "img":"https://images.samsung.com/is/image/samsung/ar-hd-j4300-un32j4300agxzb-black-136509795?$624_624_PNG$"
+    }
+]
